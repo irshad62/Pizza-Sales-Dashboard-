@@ -1,0 +1,88 @@
+📌 Project Overview
+
+This project analyzes pizza sales performance across categories, sizes, months, and product types using Power BI.
+I completed the entire workflow manually — including data cleaning, modeling, DAX calculations, and dashboard design — without using any AI tools.
+
+The goal was to understand customer preferences, top-selling pizzas, revenue drivers, and monthly sales trends.
+
+🔧 Tools & Techniques Used
+
+Power BI Desktop
+
+Power Query (ETL)
+
+DAX (manual calculations)
+
+Data Modeling (Star Schema)
+
+Interactive Visualizations
+
+📊 Dashboard Highlights
+
+The dashboard includes:
+
+1️⃣ KPI Cards
+
+Total Orders
+
+New Orders
+
+Month Difference
+
+Current Revenue
+
+Month-over-Month Growth %
+
+2️⃣ Donut Chart – Revenue by Pizza Size
+
+Shows which pizza sizes generate the most revenue.
+
+3️⃣ Bar & Line Combo – Quantity by Category
+
+Compares order quantity vs. trends across Classic, Supreme, Veggie & Chicken categories.
+
+4️⃣ Horizontal Bar – Revenue by Category
+
+Visual breakdown of total revenue by pizza category.
+
+5️⃣ Top 10 Pizzas Table
+
+Based on revenue contribution.
+
+6️⃣ Monthly Trend Line Chart
+
+Shows seasonal sales patterns throughout the year.
+
+7️⃣ Slicers
+
+Month
+
+Pizza Size
+
+Day
+
+📈 Key Insights
+
+Large-size pizzas contribute the highest revenue.
+
+Sales peak in July and drop gradually between October–December.
+
+Classic & Supreme categories dominate in total revenue.
+
+Chicken pizzas are top performers in quantity and revenue.
+
+The Spicy Italian Pizza is the highest revenue-generating item.
+
+🧠 What I Learned
+
+This hands-on project helped me strengthen:
+
+Power Query transformations
+
+DAX formulas (manual writing)
+
+Business understanding of sales patterns
+
+Dashboard storytelling
+
+Clear and structured UI design
